@@ -10,6 +10,8 @@
 
 **Source** : [link](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 
+**Results** : 99% Accuracy with SVC with L1 regularization
+
 Language : python
 
 IDE: ipython notebook
